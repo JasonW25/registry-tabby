@@ -453,10 +453,10 @@
     "partition_urls": [
       {
         "urls": [
-          "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q8_0.gguf",
-          "https://www.modelscope.cn/models/Qwen/Qwen3-8B-GGUF/resolve/master/Qwen3-8B-Q8_0.gguf"
+          "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_0.gguf",
+          "https://www.modelscope.cn/models/Qwen/Qwen3-8B-GGUF/resolve/master/Qwen3-8B-Q4_0.gguf"
         ],
-        "sha256": "408b955510e196121c1c375201744783b5c9a43c7956d73fc78df54c66e883d6"
+        "sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785"
       }
     ],
     "sha256": ""
@@ -470,10 +470,10 @@
     "partition_urls": [
       {
         "urls": [
-          "https://huggingface.co/Qwen/Qwen3-14B-GGUF/resolve/main/Qwen3-14B-Q8_0.gguf",
-          "https://www.modelscope.cn/models/Qwen/Qwen3-14B-GGUF/resolve/master/Qwen3-14B-Q8_0.gguf"
+          "https://huggingface.co/Qwen/Qwen3-14B-GGUF/resolve/main/Qwen3-14B-Q4_0.gguf",
+          "https://www.modelscope.cn/models/Qwen/Qwen3-14B-GGUF/resolve/master/Qwen3-14B-Q4_0.gguf"
         ],
-        "sha256": "a0dfe649137410b7d82f06a209240508e218f32f5b6fd81b69d6932160cfcd9d"
+        "sha256": "500a8806e85ee9c83f3ae08420295592451379b4f8cf2d0f41c15dffeb6b81f0"
       }
     ],
     "sha256": ""
