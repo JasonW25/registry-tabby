@@ -1,5 +1,16 @@
 [
   {
+    "license_name": "Apache 2.0",
+    "license_url": "",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "name": "Polaris-Qwen3-4B",
+    "provider_url": "https://huggingface.co/bartowski/POLARIS-Project_Polaris-4B-Preview-GGUF",
+    "urls": [
+      "https://huggingface.co/bartowski/POLARIS-Project_Polaris-4B-Preview-GGUF/resolve/main/POLARIS-Project_Polaris-4B-Preview-Q8_0.gguf"
+    ],
+    "sha256": "31dc522934087b75989f91ca40eefb0e0a582e18399ecacdd2dc4b2311299044"
+  },
+  {
     "license_name": "BigCode-OpenRAIL-M",
     "license_url": "https://huggingface.co/spaces/bigcode/bigcode-model-license-agreement",
     "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
